@@ -14,7 +14,7 @@ Pages are `noindex`, `robots.txt` blocks crawlers, and every page carries a "con
 ## Pitch
 
 - `assets/pitch/maggiewong-before-after-0{1,2,3}.jpg`: phone before/after cards (first impression, services, booking and contact), 1200×1200
-- `pitch-email.md`: email draft to the firm. Its preview and image links assume GitHub Pages at `https://uxcircles.github.io/Maggie-Wong-Co/`.
+- Preview link for the pitch: `https://uxcircles.github.io/Maggie-Wong-Co/home.html` (GitHub Pages)
 
 ## Run locally
 
