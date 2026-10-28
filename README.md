@@ -9,7 +9,12 @@ A concept redesign of [maggiewong.co.uk/home.html](http://maggiewong.co.uk/home.
 
 The homepage is one page with sections: services, approach and process, about Maggie Wong, reference fees, and contact (details, opening hours and an enquiry form that opens the visitor's email app). Links to the privacy notice, complaints procedure, full price list and events go to the existing pages on maggiewong.co.uk.
 
-Pages are `noindex` and carry a "concept" stripe while this is a proposal; remove both before going live.
+Pages are `noindex`, `robots.txt` blocks crawlers, and every page carries a "concept" stripe while this is a proposal; remove all three before going live.
+
+## Pitch
+
+- `assets/pitch/maggiewong-before-after-0{1,2,3}.jpg`: phone before/after cards (first impression, services, booking and contact), 1200×1200
+- `pitch-email.md`: email draft to the firm. Its preview and image links assume GitHub Pages at `https://uxcircles.github.io/Maggie-Wong-Co/`.
 
 ## Run locally
 

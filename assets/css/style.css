@@ -260,7 +260,7 @@ html[lang^="zh"] .section-head h2 { letter-spacing: .05em; }
 .contact-line a:hover { text-decoration: underline; }
 .hours { width: 100%; border-collapse: collapse; font-size: .95rem; margin-top: 2px; }
 .hours td { padding: 3px 0; color: var(--pine-950); }
-.hours td:last-child { text-align: right; font-variant-numeric: tabular-nums; }
+.hours td:last-child { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; padding-left: 12px; }
 .hours tr.closed td { color: var(--ink-muted); }
 .appt { display: inline-flex; align-items: center; gap: 8px; align-self: flex-start; background: var(--appt-bg); color: var(--appt-fg); font-size: .85rem; font-weight: 600; padding: 6px 12px; border-radius: 999px; }
 .appt svg { width: 16px; height: 16px; }
