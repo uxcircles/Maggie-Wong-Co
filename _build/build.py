@@ -414,7 +414,7 @@ def page(lg):
       <figcaption>{g('portrait_role')}</figcaption>
     </figure>
     <div class="about-body reveal">
-      <p class="eyebrow" style="color:var(--seal)">{g('about_eyebrow')}</p>
+      <p class="eyebrow" style="color:var(--accent)">{g('about_eyebrow')}</p>
       <h2>{g('about_h2')}</h2>
       <p class="role">{g('about_role')}</p>
       {about_p}
