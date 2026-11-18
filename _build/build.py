@@ -170,7 +170,7 @@ T = {
     "concept_tag": L("概念", "Concept"),
     "concept": L("概念設計展示，非 <a href=\"%s\" target=\"_blank\" rel=\"noopener\">黃艷彤律師行官方網站</a>。" % OFFICIAL,
                  "A design concept — not the <a href=\"%s\" target=\"_blank\" rel=\"noopener\">official Maggie Wong &amp; Co website</a>." % OFFICIAL),
-    "concept_by": L("設計：", "Design by "),
+    "concept_by": L("設計：", "Designed by "),
     "brand_name": L("黃艷彤律師行", "Maggie Wong &amp; Co"),
     "brand_sub": L("Maggie Wong &amp; Co Solicitors", "黃艷彤律師行 · Solicitors"),
     "nav": [(L("服務範圍", "Services"), "#services"), (L("服務流程", "How we work"), "#approach"),
@@ -267,7 +267,7 @@ T = {
     "sra": L("受律師規管局認可及規管<br><strong>SRA %s</strong>" % SRA_NO, "Authorised and regulated by the SRA<br><strong>No. %s</strong>" % SRA_NO),
     "reg": L("Maggie Wong &amp; Co Solicitors Limited，於英格蘭及威爾斯註冊之公司（編號 %s）。註冊辦事處：Room 14, Second Floor, 17 Cannon Street, Birmingham B2 5EN。本行受律師規管局（Solicitors Regulation Authority）認可及規管，並由 AXIS Speciality Europe 提供 £300 萬專業彌償保險，承保範圍為英格蘭及威爾斯。" % COMPANY_NO,
              "Maggie Wong &amp; Co Solicitors Limited, registered in England and Wales (No. %s). Registered office: Room 14, Second Floor, 17 Cannon Street, Birmingham B2 5EN. Authorised and regulated by the Solicitors Regulation Authority. Professional indemnity insurance of £3 million provided by AXIS Speciality Europe, covering work in England and Wales." % COMPANY_NO),
-    "copy": L("非官方概念設計，由 <a href=\"https://ux-circles.com/professionals\" target=\"_blank\" rel=\"noopener\">UX CIRCLES</a> 設計", "Unofficial design concept by <a href=\"https://ux-circles.com/professionals\" target=\"_blank\" rel=\"noopener\">UX CIRCLES</a>"),
+    "copy": L("非官方概念設計：<a href=\"https://ux-circles.com/professionals\" target=\"_blank\" rel=\"noopener\">UX CIRCLES</a>", "Unofficial redesign concept by <a href=\"https://ux-circles.com/professionals\" target=\"_blank\" rel=\"noopener\">UX CIRCLES</a>"),
 }
 
 
